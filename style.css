@@ -1,0 +1,15 @@
+label
+{
+    display:block;
+}
+form{
+    text-align: center;
+    background-color: rgb(61, 98, 148);
+    margin: 0px 600px 0px 600px;
+}
+body{
+    background-color: #ac98a4
+}
+h2{
+    text-align: center;
+}
